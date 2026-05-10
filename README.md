@@ -15,8 +15,6 @@ i'm 20, studying computer science at university of the people (graduating early,
 
 🔒 **sentinel** — AI-powered phishing + social engineering detector for arabic and english. built in 90 minutes at MEC hackathon 2026. (araBERT/CAMeL-BERT based)
 
-🍽️ **wasel** — white-label hospitality OS for independent cafés and restaurants in oman and the GCC.
-
 ## community
 
 ⬡ global shaper, world economic forum — muscat hub (now karachi hub)  
