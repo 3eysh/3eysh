@@ -31,7 +31,7 @@ currently working toward CCNA → security specialization
 
 ## find me
 
-[🔗 linkedin](https://www.linkedin.com/in/eishahparacha/) · [📸 instagram](https://www.instagram.com/3eysh_/) 
+[🔗 linkedin](https://www.linkedin.com/in/eishahparacha/) · [📸 instagram](https://www.instagram.com/3eysh_/)  · [ 🎤 baynana](https://www.youtube.com/@BaynanaOfficialShow) 
 
 ---
 *"i build things that bring people together."*
